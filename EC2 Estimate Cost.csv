@@ -1,0 +1,14 @@
+﻿Estimate summary
+Upfront cost,Monthly cost,Total 12 months cost,Currency
+0,42.690000000000005,512.28,USD
+,,* Includes upfront cost
+
+
+Detailed Estimate
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,Europe (London),Python/laravel app,Amazon EC2 ,0,42.692,512.30,USD,,"Tenancy (Shared Instances), Operating system (Linux), Workload (Monthly, Baseline: 1, Peak: 2, Duration of peak: 5 Day 10 Hr 0 Min), Advance EC2 instance (t3.medium), Pricing strategy (On-Demand), Enable monitoring (enabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
